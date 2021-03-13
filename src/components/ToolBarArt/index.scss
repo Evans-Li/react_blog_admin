@@ -1,0 +1,12 @@
+.sign-out{
+  display: inline-block;
+  position: relative;
+  top: 2px;
+  margin: 0 10px 0 40px;
+  &>span{
+    cursor: pointer;
+  }
+  &.anticon-logout:hover{
+    color: red;
+  }
+}
