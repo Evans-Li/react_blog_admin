@@ -1,7 +1,7 @@
 // const apiUrl = 'http://localhost:7001/admin/';
 // const apiUrl = 'http://jsv5.tk:7001/admin/'
 
-let  apiUrl =  'http://101.200.153.19:7001/default/';
+let  apiUrl =  'http://101.200.153.19:7001/admin/';
 // if (process.env.NODE_ENV == 'development') {
 //   apiUrl = 'http://127.0.0.1:7001/default/'
 // } else if (process.env.NODE_ENV == 'production') {
