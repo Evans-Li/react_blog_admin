@@ -1,7 +1,7 @@
 // const apiUrl = 'http://localhost:7001/admin/';
 // const apiUrl = 'http://jsv5.tk:7001/admin/'
 
-const apiUrl =  '';
+let  apiUrl =  '';
 if (process.env.NODE_ENV == 'development') {
   apiUrl = 'http://127.0.0.1:7001/default/'
 } else if (process.env.NODE_ENV == 'production') {
